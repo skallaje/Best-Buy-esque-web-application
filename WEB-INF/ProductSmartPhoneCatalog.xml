@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductSmartPhoneCatalog>
+    <SmartPhone id="s1" retailer="BestDeal" zip="60616" state="IL" city="Chicago">
+        <image>nexus.jpg</image>
+        <name>Google Nexus 5s</name>
+        <condition>Refurbished</condition>
+        <price>399</price>
+		<accessories>
+            <accessory>Screen</accessory>
+            <accessory>Hard Disk</accessory>
+        </accessories>
+    </SmartPhone>
+    <SmartPhone id="s2" retailer="BestDeal" zip="60609" state="IL" city="Chicago">
+        <image>iphone.jpg</image>
+        <name>Apple Iphone 7</name>
+        <condition>New</condition>
+        <price>299</price>
+		<accessories>
+            <accessory>Screen</accessory>
+            <accessory>Battery</accessory>
+        </accessories>
+    </SmartPhone>
+    <SmartPhone id="s3" retailer="BestDeal" zip="60606" state="IL" city="Chicago">
+        <image>nexus.jpg</image>
+        <name>LG G4</name>
+        <condition>Refurbished</condition>
+        <price>399</price>
+		<accessories>
+            <accessory>Screen</accessory>
+            <accessory>Hard Disk</accessory>
+        </accessories>
+    </SmartPhone>
+    <SmartPhone id="s4" retailer="BestDeal" zip="60611" state="IL" city="Chicago">
+        <image>iphone.jpg</image>
+        <name>Xiaome X18</name>
+        <condition>New</condition>
+        <price>299</price>
+		<accessories>
+            <accessory>Screen</accessory>
+            <accessory>Battery</accessory>
+        </accessories>
+    </SmartPhone>
+    <SmartPhone id="s5" retailer="BestDeal" zip="60602" state="IL" city="Chicago">
+        <image>iphone.jpg</image>
+        <name>Motorola G3</name>
+        <condition>New</condition>
+        <price>299</price>
+		<accessories>
+            <accessory>Screen</accessory>
+            <accessory>Battery</accessory>
+        </accessories>
+    </SmartPhone>
+</ProductSmartPhoneCatalog>

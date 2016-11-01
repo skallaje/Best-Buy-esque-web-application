@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductLaptopCatalog>
+    <Laptop id="l1" retailer="BestDeal" zip="60616" state="IL" city="Chicago">
+        <image>dell.jpg</image>
+        <name>Dell Inspiron</name>
+        <condition>Refurbished</condition>
+        <price>399</price>
+		<accessories>
+            <accessory>Charger</accessory>
+            <accessory>Keypad</accessory>
+        </accessories>
+    </Laptop>
+    <Laptop id="l2" retailer="BestDeal" zip="60609" state="IL" city="Chicago">
+        <image>lenovo.jpg</image>
+        <name>Lenovo Yoga</name>
+        <condition>New</condition>
+        <price>599</price>
+		<accessories>
+            <accessory>LED Screen</accessory>
+            <accessory>Hard Disk</accessory>
+        </accessories>
+    </Laptop>
+    <Laptop id="l3" retailer="BestDeal" zip="60606" state="IL" city="Chicago">
+        <image>dell.jpg</image>
+        <name>Sony Vaio</name>
+        <condition>Refurbished</condition>
+        <price>399</price>
+		<accessories>
+            <accessory>Charger</accessory>
+            <accessory>Keypad</accessory>
+        </accessories>
+    </Laptop>
+    <Laptop id="l4" retailer="BestDeal" zip="60611" state="IL" city="Chicago">
+        <image>lenovo.jpg</image>
+        <name>Asus AZ7</name>
+        <condition>New</condition>
+        <price>599</price>
+		<accessories>
+            <accessory>LED Screen</accessory>
+            <accessory>Hard Disk</accessory>
+        </accessories>
+    </Laptop>
+    <Laptop id="l5" retailer="BestDeal" zip="60602" state="IL" city="Chicago">
+        <image>dell.jpg</image>
+        <name>Toshiba T19</name>
+        <condition>Refurbished</condition>
+        <price>399</price>
+		<accessories>
+            <accessory>Charger</accessory>
+            <accessory>Keypad</accessory>
+        </accessories>
+    </Laptop>
+</ProductLaptopCatalog>

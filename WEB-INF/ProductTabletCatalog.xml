@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductTabletCatalog>
+    <Tablet id="b1" retailer="BestDeal" zip="60616" state="IL" city="Chicago">
+        <image>apple.jpg</image>
+        <name>Apple Tab</name>
+        <condition>Refurbished</condition>
+        <price>399</price>
+		<accessories>
+            <accessory>LED Screen</accessory>
+            <accessory>Charger</accessory>
+        </accessories>
+    </Tablet>
+    <Tablet id="b2" retailer="BestDeal" zip="60609" state="IL" city="Chicago">
+        <image>samsungtablet.jpg</image>
+        <name>LG Tab</name>
+        <condition >New</condition>
+        <price>299</price>
+		<accessories>
+            <accessory>LED Screen</accessory>
+            <accessory>Battery</accessory>
+        </accessories>
+    </Tablet>
+    <Tablet id="b3" retailer="BestDeal" zip="60606" state="IL" city="Chicago">
+        <image>apple.jpg</image>
+        <name>Apple Tab</name>
+        <condition>Refurbished</condition>
+        <price>399</price>
+		<accessories>
+            <accessory>LED Screen</accessory>
+            <accessory>Charger</accessory>
+        </accessories>
+    </Tablet>
+    <Tablet id="b4" retailer="BestDeal" zip="60611" state="IL" city="Chicago">
+        <image>samsungtablet.jpg</image>
+        <name>Samsung Tab</name>
+        <condition >New</condition>
+        <price>299</price>
+		<accessories>
+            <accessory>LED Screen</accessory>
+            <accessory>Battery</accessory>
+        </accessories>
+    </Tablet>
+    <Tablet id="b5" retailer="BestDeal" zip="60602" state="IL" city="Chicago">
+        <image>apple.jpg</image>
+        <name>Nokia N20</name>
+        <condition>Refurbished</condition>
+        <price>399</price>
+		<accessories>
+            <accessory>LED Screen</accessory>
+            <accessory>Charger</accessory>
+        </accessories>
+    </Tablet>
+</ProductTabletCatalog>

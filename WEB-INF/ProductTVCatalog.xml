@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductTVCatalog>
+    <TV id="t1" retailer="BestDeal" zip="60616" state="IL" city="Chicago">
+        <image>samsung.jpg</image>
+        <name>Samsung LED</name>
+        <condition>Refurbished</condition>
+        <price>399</price>
+		<accessories>
+            <accessory>Screen</accessory>
+            <accessory>Battery</accessory>
+        </accessories>
+    </TV>
+    <TV id="t2" retailer="BestDeal" zip="60609" state="IL" city="Chicago">
+        <image>lg.jpg</image>
+        <name>LG Plasma</name>
+        <condition>New</condition>
+        <price>299</price>
+		<accessories>
+            <accessory>Battery</accessory>
+            <accessory>KeyPad</accessory>
+        </accessories>
+    </TV>
+    <TV id="t3" retailer="BestDeal" zip="60606" state="IL" city="Chicago">
+        <image>samsung.jpg</image>
+        <name>Sony OLED S21</name>
+        <condition>Refurbished</condition>
+        <price>399</price>
+		<accessories>
+            <accessory>Screen</accessory>
+            <accessory>Battery</accessory>
+        </accessories>
+    </TV>
+    <TV id="t4" retailer="BestDeal" zip="60611" state="IL" city="Chicago">
+        <image>lg.jpg</image>
+        <name>Toshiba LED</name>
+        <condition>New</condition>
+        <price>299</price>
+		<accessories>
+            <accessory>Battery</accessory>
+            <accessory>KeyPad</accessory>
+        </accessories>
+    </TV>
+    <TV id="t5" retailer="BestDeal" zip="60602" state="IL" city="Chicago">
+        <image>lg.jpg</image>
+        <name>Panasonic</name>
+        <condition>New</condition>
+        <price>299</price>
+		<accessories>
+            <accessory>Battery</accessory>
+            <accessory>KeyPad</accessory>
+        </accessories>
+    </TV>
+</ProductTVCatalog>

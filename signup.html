@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+
+<!--
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+ <head><title>Sign Up Page</title><link rel="stylesheet" href="styles.css" type="text/css" /></head>
+ <body>
+ <center>
+  <form method="post" action="/A4/SignUpServlet">
+  <h4>Enter your User ID and Password and click Sign Up</h4>
+  <table cellpadding='2' cellspacing='1'>
+    <tr>
+        <td>User ID</td>
+        <td><input type="TEXT" size="15" name="user"></input></td>
+    </tr>
+    <tr>
+        <td>Password</td>
+        <td><input type="PASSWORD" size="15" name="pass"/></td>
+    </tr>
+	<tr>
+        <td>User Type</td>
+        <td>
+			<select name="userTypes">
+				<option value="c">Customer</option>
+				<option value="s">Salesman</option>
+				<option value="r">Store Manager</option>
+			</select>
+		</td>
+    </tr>
+    <tr>
+        <td colspan='2'>
+            <center><input type="submit" value="Sign Up" /></center>
+        </td>
+    </tr>
+ </table>
+ </form>
+ </center>
+ </body>
+</html>
+---->
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>BEST DEALS</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+<body>
+<div id="container">
+    <header>
+    	<h1><a href="/">Best <span>Deals</span></a></h1>
+    </header>
+
+    <div id="body">
+	<center>
+  <form method="post" action="/A4/SignUpServlet">
+  <h4>Create a new User Account</h4><br>  
+        USER NAME:
+        <input type="TEXT" size="15" name="user"></input>
+		<br><br>
+		PASSWORD:
+        <input type="PASSWORD" size="15" name="pass"/>
+		<br><br>
+        USER TYPE:
+			<select name="userTypes">
+				<option value="Customer">Customer</option>
+				<option value="Salesman">Salesman</option>
+				<option value="StoreManager">Store Manager</option>
+			</select><br><br>
+		<center><input type="submit" value="Sign Up" /></center>
+ </form>
+ </center>
+</div>
+</div>
+</body>
+</html>
