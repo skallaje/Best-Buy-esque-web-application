@@ -298,15 +298,14 @@ nav ul li {
 
 
 nav ul li a {
-    color: #eee;
+    color: black;
     display: block;
     font-family: 'Pontano Sans',Arial,sans-serif;
-    font-size: 13px;
+    font-size: 15px;
     letter-spacing: 0;
-   margin: 0;
+    margin: 0;
     padding: 28px 20px 25px;
     text-decoration: none;
-    text-transform: uppercase;
 	border-right:1px solid #668CB7;
 }
 nav ul li.selected a,
